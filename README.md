@@ -1,34 +1,47 @@
 # learn-python
 Learn Python Programming, my attempt to make it quick and easy for you to learn the essentials of Python. There are many other things to know about Python that I didn't cover in this repo.
 
+## Requirements
+
+* Python 3.8+
+* Poetry 1.6
+    - [Install Poetry](https://python-poetry.org/docs/#installation)
+
 ## How to use
 
 Please read and execute each step below:
 
 ### Step 1
 
-Create and use Python virtual environment:
-
+Change the virtualenvs folder in project workspace:
 ```bash
-$promt> python -m venv .venv
-$promt> source .venv/bin/activate
+$promt> poetry config virtualenvs.in-project true
 ```
 
 ### Step 2
 
-Install all Python requirements:
+Install all Dependencies:
 
 ```bash
-$promt> python -m pip install -U pip
-$promt> pip install -r requirements.txt
+$promt> poetry install
+```
+
+### Step 3
+
+Activating the virtual environment:
+
+```bash
+$promt> poetry shell
 ```
 
 ### Optional
 
-Generate a requirements file and then install from it in another environment:
+Deactivate the virtual environment and exit:
 
 ```bash
-$promt> pip freeze > requirements.txt
+$(learn-python-py3.12)> exit
+# To deactivate the virtual environment without leaving the shell use deactivate
+$(learn-python-py3.12)> deactivate
 ```
 
 ---

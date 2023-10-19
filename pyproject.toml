@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "learn-python"
+version = "0.1.0"
+description = "Learn Python Programming, my attempt to make it quick and easy for you to learn the essentials of Python. There are many other things to know about Python that I didn't cover in this repo."
+authors = ["Sebastian Rios Sabogal <sebaxtianrioss@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
