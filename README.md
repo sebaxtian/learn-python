@@ -51,9 +51,9 @@ All the basic content can be found in the notebooks directory, please refer to t
 ### TODO:
 
 ### Python basics
-- ~~[x] Intro~~
-- ~~[x] Operators~~
-- [ ] Data Types
+- [x] ~~Intro~~
+- [x] ~~Operators~~
+- [x] Data Types
 - [ ] Strings
 - [ ] Lists
 - [ ] Tuples

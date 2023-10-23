@@ -4,7 +4,7 @@ Learn Python Programming, my attempt to make it quick and easy for you to learn 
 ## Table of Contents
 * [Intro](intro.ipynb "Learn Python Programming")
 * [Operators](operators.ipynb "Operators in Python")
-* Data types in Python
+* [Data Types](data_types.ipynb "Data Types in Python")
 * Tuples in Python
 * Dictionaries in Python
 * Sets in Python
