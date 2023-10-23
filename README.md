@@ -53,12 +53,13 @@ All the basic content can be found in the notebooks directory, please refer to t
 ### Python basics
 - [x] ~~Intro~~
 - [x] ~~Operators~~
-- [x] Data Types
-- [ ] Strings
+- [x] ~~Variables~~
+- [x] ~~Data Types~~
+- [x] Strings
 - [ ] Lists
 - [ ] Tuples
-- [ ] Dictionaries
 - [ ] Sets
+- [ ] Dictionaries
 - [ ] Type Conversions
 - [ ] Control Flow
 - [ ] Functions
