@@ -6,9 +6,11 @@ Learn Python Programming, my attempt to make it quick and easy for you to learn 
 * [Operators](operators.ipynb "Operators in Python")
 * [Variables](variables.ipynb "Variables in Python")
 * [Data Types](data_types.ipynb "Data Types in Python")
+* [Strings](strings.ipynb "Strings in Python")
+* Lists in Python
 * Tuples in Python
-* Dictionaries in Python
 * Sets in Python
+* Dictionaries in Python
 * Type Conversions in Python
 * Control Flow in Python
 * Functions in Python
