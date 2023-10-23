@@ -38,9 +38,34 @@ $(learn-python-py3.12)> deactivate
 
 ---
 
+## Learning Python basics
+
+All the basic content can be found in the notebooks directory, please refer to the [README.md](notebooks/README.md) file and let's start to learn each basic topic.
+
+---
+
 ***That's all for now ...***
 
 ---
+
+### TODO:
+
+### Python basics
+- ~~[x] Intro~~
+- ~~[x] Operators~~
+- [ ] Data Types
+- [ ] Strings
+- [ ] Lists
+- [ ] Tuples
+- [ ] Dictionaries
+- [ ] Sets
+- [ ] Type Conversions
+- [ ] Control Flow
+- [ ] Functions
+- [ ] Object Oriented Programming
+- [ ] Importing
+- [ ] How to Handle Exceptions
+- [ ] User Inputs
 
 #### License
 
