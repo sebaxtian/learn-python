@@ -13,20 +13,12 @@ Please read and execute each step below:
 
 ### Step 1
 
-Change the virtualenvs folder in project workspace:
+Install poetry by script:
 ```bash
-$promt> poetry config virtualenvs.in-project true
+$promt> bash install-poetry.sh
 ```
 
 ### Step 2
-
-Install all Dependencies:
-
-```bash
-$promt> poetry install
-```
-
-### Step 3
 
 Activating the virtual environment:
 
