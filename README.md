@@ -13,20 +13,12 @@ Please read and execute each step below:
 
 ### Step 1
 
-Change the virtualenvs folder in project workspace:
+Install poetry by script:
 ```bash
-$promt> poetry config virtualenvs.in-project true
+$promt> bash install-poetry.sh
 ```
 
 ### Step 2
-
-Install all Dependencies:
-
-```bash
-$promt> poetry install
-```
-
-### Step 3
 
 Activating the virtual environment:
 
@@ -46,9 +38,34 @@ $(learn-python-py3.12)> deactivate
 
 ---
 
+## Learning Python basics
+
+All the basic content can be found in the notebooks directory, please refer to the [README.md](notebooks/README.md) file and let's start to learn each basic topic.
+
+---
+
 ***That's all for now ...***
 
 ---
+
+### TODO:
+
+### Python basics
+- [x] ~~Intro~~
+- [x] ~~Operators~~
+- [x] Data Types
+- [ ] Strings
+- [ ] Lists
+- [ ] Tuples
+- [ ] Dictionaries
+- [ ] Sets
+- [ ] Type Conversions
+- [ ] Control Flow
+- [ ] Functions
+- [ ] Object Oriented Programming
+- [ ] Importing
+- [ ] How to Handle Exceptions
+- [ ] User Inputs
 
 #### License
 
