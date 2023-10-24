@@ -7,7 +7,7 @@ Learn Python Programming, my attempt to make it quick and easy for you to learn 
 * [Variables](variables.ipynb "Variables in Python")
 * [Data Types](data_types.ipynb "Data Types in Python")
 * [Strings](strings.ipynb "Strings in Python")
-* Lists in Python
+* [Lists](lists.ipynb "Lists in Python")
 * Tuples in Python
 * Sets in Python
 * Dictionaries in Python
