@@ -56,7 +56,7 @@ All the basic content can be found in the notebooks directory, please refer to t
 - [x] ~~Variables~~
 - [x] ~~Data Types~~
 - [x] ~~Strings~~
-- [x] Lists
+- [x] ~~Lists~~
 - [ ] Tuples
 - [ ] Sets
 - [ ] Dictionaries
