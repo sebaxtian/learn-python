@@ -57,7 +57,7 @@ All the basic content can be found in the notebooks directory, please refer to t
 - [x] ~~Data Types~~
 - [x] ~~Strings~~
 - [x] ~~Lists~~
-- [ ] Tuples
+- [x] ~~Tuples~~
 - [ ] Sets
 - [ ] Dictionaries
 - [ ] Type Conversions

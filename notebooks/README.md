@@ -8,7 +8,7 @@ Learn Python Programming, my attempt to make it quick and easy for you to learn 
 * [Data Types](data_types.ipynb "Data Types in Python")
 * [Strings](strings.ipynb "Strings in Python")
 * [Lists](lists.ipynb "Lists in Python")
-* Tuples in Python
+* [Tuples]("Tuples in Python")
 * Sets in Python
 * Dictionaries in Python
 * Type Conversions in Python
