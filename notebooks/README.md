@@ -10,7 +10,7 @@ Learn Python Programming, my attempt to make it quick and easy for you to learn 
 * [Lists](lists.ipynb "Lists in Python")
 * [Tuples](tuples.ipynb "Tuples in Python")
 * [Sets](sets.ipynb "Sets in Python")
-* Dictionaries in Python
+* [Dictionaries](dictionaries.ipynb "Dictionaries in Python")
 * Type Conversions in Python
 * Control Flow in Python
 * Functions in Python
