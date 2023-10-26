@@ -11,7 +11,7 @@ Learn Python Programming, my attempt to make it quick and easy for you to learn 
 * [Tuples](tuples.ipynb "Tuples in Python")
 * [Sets](sets.ipynb "Sets in Python")
 * [Dictionaries](dictionaries.ipynb "Dictionaries in Python")
-* Type Conversions in Python
+* [Type Conversions](type_conversions.ipynb "Type Conversions in Python")
 * Control Flow in Python
 * Functions in Python
 * Object Oriented Programming in Python
