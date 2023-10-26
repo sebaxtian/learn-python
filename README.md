@@ -58,7 +58,7 @@ All the basic content can be found in the notebooks directory, please refer to t
 - [x] ~~Strings~~
 - [x] ~~Lists~~
 - [x] ~~Tuples~~
-- [x] Sets
+- [x] ~~Sets~~
 - [ ] Dictionaries
 - [ ] Type Conversions
 - [ ] Control Flow
