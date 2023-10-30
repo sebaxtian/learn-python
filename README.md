@@ -62,7 +62,7 @@ All the basic content can be found in the notebooks directory, please refer to t
 - [x] ~~Dictionaries~~
 - [x] ~~Type Conversions~~
 - [x] ~~Control Flow~~
-- [ ] Functions
+- [x] Functions
 - [ ] Object Oriented Programming
 - [ ] Importing
 - [ ] How to Handle Exceptions
