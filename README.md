@@ -60,7 +60,7 @@ All the basic content can be found in the notebooks directory, please refer to t
 - [x] ~~Tuples~~
 - [x] ~~Sets~~
 - [x] ~~Dictionaries~~
-- [x] Type Conversions
+- [x] ~~Type Conversions~~
 - [ ] Control Flow
 - [ ] Functions
 - [ ] Object Oriented Programming
