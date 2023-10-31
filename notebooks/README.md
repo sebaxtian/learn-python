@@ -14,7 +14,7 @@ Learn Python Programming, my attempt to make it quick and easy for you to learn 
 * [Type Conversions](type_conversions.ipynb "Type Conversions in Python")
 * [Control Flow](control_flow.ipynb "Control Flow in Python")
 * [Functions](functions.ipynb "Functions in Python")
-* Object Oriented Programming in Python
 * Importing in Python
 * How to Handle Exceptions in Python
 * User Input in Python
+* Object Oriented Programming in Python
