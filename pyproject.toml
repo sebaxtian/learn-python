@@ -7,9 +7,10 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.12,<3.13"
 ipython = "^8.16.1"
 ipykernel = "^6.25.2"
+numpy = "^1.26.1"
 
 
 [build-system]
