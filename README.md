@@ -64,7 +64,7 @@ All the basic content can be found in the notebooks directory, please refer to t
 - [x] ~~Control Flow~~
 - [x] ~~Functions~~
 - [x] ~~Importing~~
-- [ ] How to Handle Exceptions
+- [x] ~~How to Handle Exceptions~~
 - [ ] User Inputs
 - [ ] Object Oriented Programming
 
