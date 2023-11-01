@@ -65,7 +65,7 @@ All the basic content can be found in the notebooks directory, please refer to t
 - [x] ~~Functions~~
 - [x] ~~Importing~~
 - [x] ~~How to Handle Exceptions~~
-- [ ] User Inputs
+- [x] User Inputs
 - [ ] Object Oriented Programming
 
 #### License
