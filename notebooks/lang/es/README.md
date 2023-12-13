@@ -8,7 +8,7 @@ Aprenda a programar en Python, mi intento de hacer que aprender los conceptos b√
 - [x] ~~Operadores~~
 - [x] ~~Variables~~
 - [x] ~~Tipos de datos~~
-- [ ] Strings
+- [x] ~~Strings~~
 - [ ] Listas
 - [ ] Tuples
 - [ ] Conjuntos
@@ -26,3 +26,4 @@ Aprenda a programar en Python, mi intento de hacer que aprender los conceptos b√
 * [Operadores](operators.ipynb "Operadores en Python")
 * [Variables](variables.ipynb "Variables en Python")
 * [Tipos de datos](data_types.ipynb "Tipos de datos en Python")
+* [Strings](strings.ipynb "Strings en Python")
