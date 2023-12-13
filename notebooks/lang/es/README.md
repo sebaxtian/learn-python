@@ -5,7 +5,7 @@ Aprenda a programar en Python, mi intento de hacer que aprender los conceptos b√
 
 ### Conceptos b√°sicos de Python
 - [x] ~~Intro~~
-- [ ] Operadores
+- [x] ~~Operadores~~
 - [ ] Variables
 - [ ] Tipos de datos
 - [ ] Strings
@@ -23,3 +23,4 @@ Aprenda a programar en Python, mi intento de hacer que aprender los conceptos b√
 
 ## Tabla de Contenido
 * [Intro](intro.ipynb "Aprenda a programar en Python")
+* [Operadores](operators.ipynb "Operadores en Python")
